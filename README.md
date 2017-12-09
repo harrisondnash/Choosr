@@ -10,6 +10,10 @@ When a person searches for a product on the app, 2 options are returned.. The fi
 Team members: Kevin Bowen, Felix Moon, John Ranck, Harrison Nash
 
 Felix: Analytics/other tasks
+Harrison: UI/general
 John: API logistics/random
 Kevin: UI/wireframing
-Harrison: UI/general
+
+
+View deployed app here:
+https://choosr-project-teamfour.herokuapp.com/index.html
